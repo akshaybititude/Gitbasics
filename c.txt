@@ -3,3 +3,6 @@ first version c.txt
 firstbranch first version
 
 firstbranch second verion
+
+merged to master
+

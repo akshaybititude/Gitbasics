@@ -3,3 +3,5 @@ second version  b.txt
 
 firstbranch first version
 firstbranch second version
+
+merged to master
