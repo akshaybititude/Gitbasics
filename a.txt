@@ -3,3 +3,5 @@ second version a.txt
 
 firstbranch first vesion
 firstbranch second vesion
+
+merged to master
